@@ -1,0 +1,6 @@
+# only the VisionWare UI files are tracked; the other projects in this folder stay local
+/*
+!/.gitignore
+!/VisionWare.lua
+!/Example.lua
+!/README.md
